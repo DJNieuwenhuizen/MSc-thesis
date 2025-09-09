@@ -1,5 +1,4 @@
-# MSc-thesis
-## 'Probing shallow subsurface water on Mars through bi-static radar measurements at UHF wavelengths'
+# MSc-thesis: 'Probing shallow subsurface water on Mars through bi-static radar measurements at UHF wavelengths'
 
 Mapping shallow subsurface water (ice) on near-equatorial Mars is critical for future (manned) exploration, yet existing research shows poor correlation, leaving its presence debated.
 
