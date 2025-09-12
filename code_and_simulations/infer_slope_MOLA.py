@@ -8,9 +8,9 @@
 #  |  Code used to calculate slopes from MOLA MEGDR data
 #  |  Resolution options: 4 or 16 pixels per degree
 #  |  Output: 
-#     | CSV file '{n_pixels}pixel_slopes.csv' including:
-#        | Center longitude, center latitude, slope, RMS slope and local surface normal
-#     | PNG plots of MOLA MEGDR topography, and derived (RMS) slopes
+#     |  CSV file '{n_pixels}pixel_slopes.csv' including:
+#        |  Center longitude, center latitude, slope, RMS slope and local surface normal
+#     |  PNG plots of MOLA MEGDR topography, and derived (RMS) slopes
 #
 # **********************************************************************************************
 #
