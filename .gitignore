@@ -1,3 +1,7 @@
 code_and_simulations/analysis/MOLA/16pixel_slopes.csv
 /code_and_simulations/analysis/results/BSR-2.1/permittivity-co2-16pix/data
 /code_and_simulations/analysis/results/BSR-2.1/permittivity-rego-16pix/data
+code_and_simulations/kernels/spk/de430.bsp
+code_and_simulations/kernels/spk/em16_tgo_flp_010_01_20220804_20310104_v01.bsp
+code_and_simulations/kernels/spk/mar097.bsp
+code_and_simulations/kernels/spk/ORMF_T19_240614_320101_01863.BSP
