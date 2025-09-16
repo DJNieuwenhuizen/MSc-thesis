@@ -28,6 +28,8 @@
 #
 # **********************************************************************************************
 
+""" Import Python packages """
+
 import os
 import numpy as np
 from matplotlib.colors import LogNorm
